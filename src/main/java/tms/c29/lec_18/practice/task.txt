@@ -1,0 +1,2 @@
+Task 1
+Читайте книгу по MySQL, ссылка на гугл диск в global_program.txt
