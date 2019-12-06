@@ -1,0 +1,33 @@
+Task 1
+Игра в слова. Есть строка “engineering”. Нужно выделить подстроку так, чтобы получилось два слова “engine” и “ring”.
+
+Task 2
+Есть слово “alucard”. Нужно изменить порядок букв на обратный.
+
+Task 3
+Есть строка “Green. red. blue. yellow”. Необходимо заменить все точки на запятые
+
+Task 4
+Есть текст:
+“While major gameplay components are already in place and functioning,
+players help is needed to add some of the smaller features and content.
+Of course polishing the overall experience is important at the same time.
+Game has been extensively tested in closed group, but it is always important to hear fresh suggestions
+from larger crowd that come from various gaming backgrounds.
+Plan is to make the game as good as possible but without compromising the core idea.”
+
+Нужно узнать содержит ли текст слова “alert”, “add”, “good”, “plan” и какое кол-во.
+
+Task 6
+Есть массив слов. Нужно отфильтровать его так, чтобы в выходном массиве оказались слова, которые начинаются с буквы “W”/”w”.
+
+Task 7
+Написать benchmark тест, который бы измерял скорость работы String, StringBuilder и StringBuffer.
+
+Task 8
+Есть склад авто и выяснилось, что всем присвоили неверные маркировки двигателя.
+Необходимо все 1.4 литра двигатели заменить на 2.0Т, а все 1.8, на 1.8Т.
+
+Task 9
+Есть массив строк, вывести на экран все строки, длина которых больше 5 символов
+

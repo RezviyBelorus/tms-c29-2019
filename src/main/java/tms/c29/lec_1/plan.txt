@@ -1,0 +1,21 @@
+1. Введение в Java
+2. IDE
+3. Запуск и компиляция программы, HelloWorld
+4. Типы данных (byte, short, char, int, long, float, double, boolean, String)
+5. Приведение типов
+6. Операторы в джава. +, -, /, *, %, >, <, !=, >>, <<, x++/ ++x, x--/ --x, оператор+=, приоритет операций
+
+Полезный сайт по java:
+https://metanit.com/java/tutorial/
+
+Комьюнити сайт:
+https://stackoverflow.com/
+
+Типы данных:
+https://metanit.com/java/tutorial/2.12.php
+
+Ссылка на гугл диск:
+https://drive.google.com/drive/u/2/folders/1Y1bz_6C9QfzgpUUJaOi7YbLj83RzZdhV
+
+Скачать 11 JDK: https://jdk.java.net/java-se-ri/11
+JDK installer: https://adoptopenjdk.net/index.html?variant=openjdk11&jvmVariant=hotspot

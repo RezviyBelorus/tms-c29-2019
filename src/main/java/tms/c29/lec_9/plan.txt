@@ -1,0 +1,19 @@
+Part_1
+1. Переменные за пределами блока try-catch
+2. Показать как выполняется код при исклюениях
+
+Part_2
+1. Потоки ввода-вывода
+2. Чтение и запись файлов. FileInputStream и FileOutputStream
+3. Закрытие потоков
+4. Классы ByteArrayInputStream и ByteArrayOutputStream
+5. Буферизованные потоки BufferedInputStream и BufferedOutputStream
+6. Классы DataOutputStream и DataInputStream
+7. Чтение и запись текстовых файлов (FileReader, FileWriter)
+8. Буферизация символьных потоков. BufferedReader и BufferedWriter
+9. Сериализация (ObjectInputStream, ObjectOutputStream)
+10. Класс File. Работа с файлами и каталогами
+11. Работа с ZIP-архивами
+
+Info:
+https://metanit.com/java/tutorial/6.1.php

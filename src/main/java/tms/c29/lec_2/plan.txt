@@ -1,0 +1,9 @@
+1. if-else, if-else-if
+2. Switch
+3. for
+4. while, do-while
+5. continue, break, return
+
+
+Info:
+https://metanit.com/java/tutorial/2.6.php

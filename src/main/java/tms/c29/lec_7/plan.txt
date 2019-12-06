@@ -1,0 +1,9 @@
+1. Про статик поля в классах
+2. JVM memory
+3. String
+4. StringBuilder
+5. StringBuffer
+6. Как измерять время
+
+Info:
+Глава 7: https://metanit.com/java/tutorial/7.1.php

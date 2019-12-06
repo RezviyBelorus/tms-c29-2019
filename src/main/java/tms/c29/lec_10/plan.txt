@@ -1,0 +1,12 @@
+1. Generics
+2. Generics в полях класса
+3. Generics в методах
+4. Generics в конструкторах
+5. Generics в наследовании
+6. Wildcard
+7. Enum
+
+Info:
+1. https://metanit.com/java/tutorial/3.11.php
+2. https://habr.com/ru/post/207360/
+3. https://habr.com/ru/company/sberbank/blog/416413/

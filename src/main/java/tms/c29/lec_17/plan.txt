@@ -1,0 +1,13 @@
+1. Deadlock
+2. Callable
+3. Exchanger
+4. Semaphore
+5. CountDownLatch
+6. CyclicBarrier
+7. Reentrant lock
+8. ExecutorService
+
+Info:
+https://habr.com/ru/post/277669/
+https://metanit.com/java/tutorial/8.10.php
+https://www.baeldung.com/java-executor-service-tutorial

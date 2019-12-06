@@ -1,0 +1,42 @@
+Part 1
+1. Форматирование кода
+2. Путь к файлу хард кодом
+3. Аргументы методов
+
+Part 2
+1. Collections
+2. List
+- ArrayList
+- LinkedList
+
+3. Map
+- HashMap
+- TreeMap
+
+4. Set
+- HashSet
+- TreeSet
+
+5. Comparable, Comparator
+На примере магазина
+- thenComparing
+- reversed
+
+6. Iterator
+- hasNext
+- next
+- remove
+
+ArrayList:
+- initial capacity = 10
+- load factor = 1
+- new capacity = oldCapacity + oldCapacity/2
+
+Info:
+https://metanit.com/java/tutorial/5.1.php
+https://habr.com/ru/post/162017/
+https://habr.com/ru/post/237043/
+https://www.javatpoint.com/collections-in-java
+
+Про компаратор == 0
+http://qaru.site/questions/520424/java-treeset-dont-remove-duplicate-items

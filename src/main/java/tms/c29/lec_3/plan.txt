@@ -1,0 +1,8 @@
+1. Массивы, инициализация, доступ к элементу, for-each, печать, двумерные массивы
+2. Сложность алгоритма
+3. Сортировка пузырьком
+4. Быстрая сортировка (quick sort)
+5. Class scanner
+
+Info:
+https://javarush.ru/groups/posts/1997-algoritmih-sortirovki-v-teorii-i-na-praktike

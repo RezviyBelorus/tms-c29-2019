@@ -1,0 +1,19 @@
+Part 1
+1. var
+2. Modules
+
+Part 2
+Java 11 new
+1. String -> strip, stringLeading, stripTrailing
+2. String -> repeat
+3. Запуск программы
+4. Files.readString(), Files.writeString()
+
+Part 3
+Test:
+https://drive.google.com/open?id=1mdk06-2FN7is27-kFKd5YWBnFAfLvAJfcVA2vu0bQy4
+
+Info:
+https://metanit.com/java/tutorial/11.1.php
+https://habr.com/ru/company/piter/blog/417733/
+https://www.journaldev.com/24601/java-11-features

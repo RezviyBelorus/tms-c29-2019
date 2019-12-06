@@ -1,0 +1,44 @@
+Part 0
+WildCard
+
+Part 1
+1. Date API (LocalDate / LocalDateTime)
+2. parse, DateTimeFormatter
+3. Between
+
+Part 2
+1. Functional interfaces
+2. Лямбды как параметры методов
+3. Передача лямбды напрямую в метод
+4. Ссылки на метод как параметры методов - static / nonstatic
+5. Ссылки на конструкторы
+6. Лямбды как результат методов // case 1: return (x, y) -> x + y;
+
+Part 3
+1. Predicate<T>
+Функциональный интерфейс Predicate<T> проверяет соблюдение некоторого условия. Если оно соблюдается, то возвращается значение true. В качестве параметра лямбда-выражение принимает объект типа T
+
+2. Consumer<T>
+Consumer<T> выполняет некоторое действие над объектом типа T, при этом ничего не возвращая
+
+3. Function<T,R>
+Функциональный интерфейс Function<T,R> представляет функцию перехода от объекта типа T к объекту типа R
+
+4. Supplier<T>
+Supplier<T> не принимает никаких аргументов, но должен возвращать объект типа T
+
+5. UnaryOperator<T>
+UnaryOperator<T> принимает в качестве параметра объект типа T, выполняет над ними операции и возвращает результат операций в виде объекта типа T
+
+6. BinaryOperator<T>
+BinaryOperator<T> принимает в качестве параметра два объекта типа T, выполняет над ними бинарную операцию и возвращает ее результат также в виде объекта типа T:
+
+
+Info:
+https://www.baeldung.com/java-datetimeformatter
+https://metanit.com/java/tutorial/12.3.php
+https://metanit.com/java/tutorial/9.3.php
+https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F
+
+Generics:
+https://habr.com/ru/company/sberbank/blog/416413/

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "location": "Minsk",
+    "skills": [
+      {
+        "language": "java",
+        "experienceAge": 3
+      },
+      {
+        "language": "python",
+        "experienceAge": 1
+      }
+    ],
+    "firstname": "Alex",
+    "lastname": "Fomin"
+  },
+  {
+    "firstname": "Trololo"
+  }
+]

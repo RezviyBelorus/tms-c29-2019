@@ -1,0 +1,18 @@
+Part 1
+1. Структура XML-документа (eXtensible Markup Language)
+2. DOM, SAX, STAX
+
+Part 2
+1. Знакомство с JSON-парсерами на примере jackson
+
+Info:
+XML parsers:
+    https://habr.com/ru/post/339716/
+    https://dzone.com/articles/parsing-xml-using-dom-sax-and
+
+XSD:
+    https://habr.com/ru/post/90696/
+
+Read from JSON:
+    https://crunchify.com/how-to-read-json-object-from-file-in-java/
+    http://theoryapp.com/parse-json-in-java/
