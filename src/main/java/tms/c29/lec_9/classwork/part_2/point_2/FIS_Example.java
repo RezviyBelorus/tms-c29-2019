@@ -8,7 +8,7 @@ public class FIS_Example {
     public static void main(String[] args) {
         FileInputStream fis = null;
         try {
-            fis = new FileInputStream("src/tms/c29/lec_9/practice/task.txt");
+            fis = new FileInputStream("src/main/java/tms/c29/lec_9/practice/task.txt");
             int data;
             while ((data = fis.read()) != -1) {
                 System.out.print((char)data);
